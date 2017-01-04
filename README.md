@@ -1,3 +1,4 @@
+Test branch 
 Reladomo Kata 
 =============
 A [kata](https://en.wikipedia.org/wiki/Kata) is an exercise in martial arts. 
@@ -5,7 +6,8 @@ A [code kata](http://codekata.com/) is an exercise in programming which helps ho
 The Reladomo Kata is a fun way to help you learn idiomatic Reladomo usage. 
 This particular kata is set up as a series of unit tests which fail. 
 Your task is to make them pass, using Reladomo.
-
+I would like to test the diff here. 
+Do new lines work?
 Pre-requisites
 --------------
 1) [Java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
